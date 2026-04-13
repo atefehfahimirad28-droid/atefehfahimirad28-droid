@@ -1,7 +1,7 @@
 
 # Hi, I'm Atefeh Fahimi Rad 👋
 
-Aspiring Data Engineer based in Germany 🇩🇪
+Junior Data Engineer based in Germany 🇩🇪
 
 ---
 
