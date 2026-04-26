@@ -22,6 +22,9 @@ Junior Data Engineer based in Germany 🇩🇪
 - ETL / ELT pipelines
 - Data orchestration (Dagster / Airflow - learning)
 - Working with APIs and real-world datasets
+- Data Lake Concepts
+- Apache Kafka (basic)
+- PySpark (basic)
 
 ---
 
@@ -31,14 +34,17 @@ Junior Data Engineer based in Germany 🇩🇪
 - SQL
 - ETL / ELT
 - Data Pipelines
+- Data Lake
+- Apache Kafka (basic)
 - Apache Airflow (basic)
 - Dagster (basic)
+- PySpark (basic)
+- PostgreSQL
 - AWS (basic)
 
 ### 💻 Programming
 - Python (focus)
 - C++
-- Java
 - JavaScript
 - HTML / CSS
 
@@ -53,7 +59,7 @@ Junior Data Engineer based in Germany 🇩🇪
 
 ## 📂 Projects
 
-- 🔹 crypto-data-pipeline *(in progress)*
+- 🔹 crypto-data-pipeline 
 - 🔹 hospital-data-pipeline *(team project)*
 - 🔹 banking-data-pipeline *(coming soon)*
 
